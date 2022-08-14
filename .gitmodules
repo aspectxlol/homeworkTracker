@@ -3,4 +3,4 @@
 	url = https://github.com/aspectxlol/HomeworkTracker-server
 [submodule "client"]
 	path = client
-	url = https://github.com/aspectxlol/HomeworkTracker-client
+	url = https://github.com/aspectxlol/hwTrackerClient
